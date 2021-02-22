@@ -1,0 +1,31 @@
+body{
+	background-color: lightblue;
+}
+h1{
+ color: Purple; 
+ border-bottom: 2.5px solid blue ; 
+ display:inline;
+ font: 2.5em "Fira Sans", sans-serif;
+}
+ 
+p{
+  color: red; 
+  font: 1.2em "fira sans",
+   san-serif;
+}
+
+h2{color: blue;
+	font: 1.7em sans-serif;
+	display: block-flex;
+}
+
+ul {
+	display: inline-flex;
+	list-style: none;
+	;
+}
+
+li {border: 1.5px solid black; 
+	padding: 2px;}
+
+	.border{width: 80%;}
