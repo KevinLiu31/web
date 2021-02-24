@@ -1,0 +1,51 @@
+body{
+	background-color: lightgray;
+}
+h1{
+ color: purple; 
+ border-bottom: 2.5px solid blue ; 
+ font: 2.5em "Fira Sans", sans-serif;
+ text-align:center;
+}
+ 
+p1{
+  color: black; 
+  font: italic 1.2em "fira sans",
+   san-serif
+   text-align:center;
+   margin-left:10px;
+   margin-right:10px;
+}
+
+h2{color: blue;
+	font: 1.7em sans-serif;
+	text-align:center;
+}
+
+
+ul {color: black;
+	display:flex;
+	list-style: none;
+	background-color: white
+	;
+	;
+}
+
+li {color:black;
+	padding-left: 10px;
+	padding-right:10px;
+}
+	
+	a{color:purple;
+	text-decoration: none;
+}
+	
+	.line{color:black ;
+		background-color:white;
+	}
+	
+	
+	.on{color:black;
+		background-color:lightblue;
+}
+	
