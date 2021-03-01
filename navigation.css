@@ -1,44 +1,52 @@
 body{
 	background-color: lightgray;
+	margin-top: 0px;
+	margin-left:0px;
+	margin-right: 0px;
 }
 h1{
- color: purple; 
- border-bottom: 2.5px solid blue ; 
+ color: white; 
+ border-bottom: 3px solid black ; 
  font: 2.5em "Fira Sans", sans-serif;
  text-align:center;
+ background-color:red;
+ padding-top: 20px;
+ margin-top: 0px;
+ margin-bottom:0px;
 }
  
-p1{
-  color: black; 
+p {color: black; 
   font: italic 1.2em "fira sans",
    san-serif
    text-align:center;
-   margin-left:10px;
-   margin-right:10px;
+   margin-left:100px;
+   margin-right:100px;
 }
 
-h2{color: blue;
+h2.largo{color: blue;
 	font: 1.7em sans-serif;
 	text-align:center;
 }
 
 
 ul {color: black;
-	display:flex;
+	display:inline-flex;
 	list-style: none;
-	background-color: white
-	;
-	;
+	background-color: white;
+	text-align:center;
+	margin-top: 0px;
 }
 
 li {color:black;
-	padding-left: 10px;
-	padding-right:10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align:center;
 }
 	
-	a{color:purple;
-	text-decoration: none;
+
+	
 }
+	
 	
 	.line{color:black ;
 		background-color:white;
@@ -48,4 +56,17 @@ li {color:black;
 	.on{color:black;
 		background-color:lightblue;
 }
-	
+a.menu{color:purple;
+	text-decoration: none;
+	padding-left: 127px;
+	padding-right: 127px;
+}
+ a:hover {color:yellow;}
+ 
+ img{text-align:center;}
+ 
+ h2{color: purple;
+	font: 1.5em sans-serif;
+	text-align:center;}
+
+\
